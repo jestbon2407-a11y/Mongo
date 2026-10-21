@@ -1,0 +1,84 @@
+[{
+    "titulo":"Todo sobre programacion",
+    "autor":"Santiago Valencia",
+    "fecha de publicacion":2022,
+    "genero":"Programacion",
+    "disponible":true,
+    "etiqueta":"Codigo"
+},
+{
+    "titulo":"Cronica de una muerte Anunciada",
+    "autor":"Gabriel Garcia Marquez",
+    "fecha de publicacion":1981,
+    "disponible":false,
+    "etiqueta":"Realismo Magico"
+},
+{
+    "titulo":"El poder de la Discplina",
+    "autor":"Ana Isabel Velasco",
+    "fecha de publicacion":2009,
+    "genero":"Superacion Personal",
+    "disponible":false,
+    "etiqueta":"Superar, avanzar y criticar"
+},
+{
+    "titulo":"Cien Anios de Soledad",
+    "autor":{
+        "nombre":"Gabriel Garcia Marquez",
+        "nacionalidad":"Colombiano",
+        "nacimiento":1927
+    },
+    "fecha de publicacion":1967,
+    "genero":"Realismo Magico",
+    "disponible":true,
+    "etiqueta":"clasico"
+},
+{
+    "titulo":"Las Bases de Datos",
+    "autor":"Juan Laos",
+    "fecha de publicacion":2022,
+    "genero":"Bases de datos",
+    "disponible":true,
+    "etiqueta":"Informacion"
+},
+{
+    "titulo":"Don Quijote de la Mancha",
+    "autor":"Miguel de Cervantes",
+    "fecha de publicacion":1605,
+    "genero":"Aventura",
+    "disponible":false,
+    "etiqueta":"clasico"
+},
+{
+    "titulo":"Maria",
+    "autor":{
+        "nombre":"Jorge Isaacs",
+        "nacionalidad":"Colombiano"
+    },
+    "fecha de publicacion":1867,
+    "genero":"Romantico",
+    "disponible":true,
+    "etiqueta":"sentimental",
+    "editorial":{
+        "nombre":"Imprenta de Gaitan",
+        "pais":"Colombia"
+    }
+},
+{
+    "titulo":"Te Ame a Pesar de Todo",
+    "autor":{
+        "nombre":"Juan Bonilla",
+        "nacionalidad":"Colombiano"
+    },
+    "fecha de publicacion":2026,
+    "genero":"Romantico",
+    "disponible":true,
+    "etiqueta":"sentimental",
+    "sentimientos":{
+        "extraniar":"Extranio sus mensajes, su risa y hasta las cosas pequenias de todos los dias",
+        "querer":"La quiero a pesar de todo, aunque ya no estemos juntos",
+        "superar":"Poco a poco aprendo a vivir sin ella y a estar bien conmigo mismo",
+        "agradecimiento":"Le agradezco lo que vivimos, porque me ensenio muchas cosas"
+    },
+    "mensaje_final":"Lo que paso fue bonito, y aunque duela, me quedo con lo bueno"
+}]
